@@ -24,6 +24,6 @@ public class Main {
         }
         while (nbplayer != n);
 
-        System.out.println("Bravo! Vous avez trouvé le nombre aléatoire!");
+        System.out.println("Bravo! Vous avez trouvé!");
     }
 }
